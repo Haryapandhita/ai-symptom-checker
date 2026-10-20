@@ -145,7 +145,7 @@ ai-symptom-checker/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ai-symptom-checker.git
+git clone https://github.com/Haryapandhita/ai-symptom-checker.git
 cd ai-symptom-checker
 
 # 2. (Recommended) create a virtual environment
