@@ -1,0 +1,10 @@
+# Core app (works fully offline)
+streamlit>=1.50
+scikit-learn>=1.3
+nltk>=3.8
+
+# Optional: LLM second opinion with Google Gemini
+google-genai>=1.0
+
+# Testing
+pytest>=7.0
